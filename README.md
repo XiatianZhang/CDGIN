@@ -16,7 +16,7 @@ If you find this work useful, please consider our paper to cite:
 
 ```
 @inproceedings{zhang23correlation,
- author={Zhang, Xiatian and Zheng, Sisi and Shum, Hubert P. H. and Zhang, Haozheng and Song, Nan and Song, Mingkang and Jia, Hongxiao},
+ author={Zhang, Francis Xiatian and Zheng, Sisi and Shum, Hubert P. H. and Zhang, Haozheng and Song, Nan and Song, Mingkang and Jia, Hongxiao},
  booktitle={Proceedings of the 2023 International Conference on Neural Information Processing},
  series={ICONIP '23},
  title={Correlation-Distance Graph Learning for Treatment Response Prediction from rs-fMRI},
